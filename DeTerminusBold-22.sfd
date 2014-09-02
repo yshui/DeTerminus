@@ -1,10 +1,7 @@
 SplineFontDB: 3.0
 FontName: DeTerminusBold
-FullName: DeTerminus Bold
 FamilyName: DeTerminus
-Weight: Bold
 Copyright: Copyright (c) 2014, shui
-UComments: "2014-9-1: Created with FontForge (http://fontforge.org)" 
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -18,8 +15,8 @@ XUID: [1021 507 594163628 783895]
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1409629999
-ModificationTime: 1409629999
+CreationTime: 1409630022
+ModificationTime: 1409630022
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -7133,7 +7130,7 @@ Flags: W
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 22 886 18 4 1 xos4
+BitmapFont: 22 887 18 4 1 xos4
 BDFStartProperties: 25
 FONT 1 "-xos4-DeTerminus-Bold-R-Normal--22-220-72-72-C-110-ISO10646-1"
 SIZE 1 "22 72 72"
@@ -7288,8 +7285,8 @@ BDFChar: 61 93 11 3 7 0 13
 p_Xhb(`4),(`4),)#+(2
 BDFChar: 62 94 11 1 9 11 15
 #QPhE2?74e_12Lc
-BDFChar: 63 95 11 1 9 -2 -2
-s*t(L
+BDFChar: 63 95 11 0 10 -2 -2
+s53kW
 BDFChar: 64 96 11 3 6 14 16
 ^gJhr
 BDFChar: 65 97 11 1 9 0 9
