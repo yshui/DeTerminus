@@ -9,6 +9,7 @@ Changed glyphs:
 
 __20__
 
+* a
 * pqgy
 * {}|\(\)\\[] slightly larger
 * R
