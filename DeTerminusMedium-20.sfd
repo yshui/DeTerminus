@@ -1,10 +1,5 @@
 SplineFontDB: 3.0
 FontName: DeTerminusMedium
-FullName: DeTerminusMedium
-FamilyName: DeTerminus
-Weight: Medium
-Copyright: Copyright (c) 2014, shui
-Version: 
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -17,8 +12,8 @@ XUID: [1021 507 594163628 15729584]
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1409631459
-ModificationTime: 1409631631
+CreationTime: 1409633256
+ModificationTime: 1409633256
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -7543,7 +7538,7 @@ zzzz!!%KKzzzzz
 BDFChar: 46 46 10 0 9 -4 15
 zzzzzzz#QP,1zz
 BDFChar: 47 47 10 0 9 -4 15
-zz!<<-#!WW9%"98Q)#QP,1&-*7A+93Mazz
+!!!"L!.Y(M!<<0$!WW?'"98]-#QPD9&-*gQ+94Y,5QCcaz
 BDFChar: 48 48 10 0 9 -4 15
 z!!#1_5la1N5la7P70#mZ;#k#)5la1N5la(Kzz
 BDFChar: 49 49 10 0 9 -4 15
@@ -7612,8 +7607,8 @@ BDFChar: 80 80 10 0 9 -4 15
 z!!%HJ5la1N5la1N5lc?65QF%L5QF%L5QF%Lzz
 BDFChar: 81 81 10 0 9 -4 15
 z!!#1_5la1N5la1N5la1N5la1N5la1N8H:pS!WW6$z
-BDFChar: 82 82 10 0 9 -4 15
-z!!%HJ5la1N5la1N5lc?6?iX"'8,u$X63':Ozz
+BDFChar: 82 82 10 1 7 0 12
+r.9NPJqEoRKS"f-JcGcN
 BDFChar: 83 83 10 0 9 -4 15
 z!!#1_5la1N5QF%L5QEtJ!<<-#!<>Cc5la(Kzz
 BDFChar: 84 84 10 0 9 -4 15
@@ -7630,15 +7625,15 @@ BDFChar: 89 89 10 0 9 -4 15
 z!!#:b5l`)/+oi;W'EAC=#QP,1#QP,1#QP,1zz
 BDFChar: 90 90 10 0 9 -4 15
 z!!%KK!<<-#!<<0$"98]-&-*gQ5QF%L5QH96zz
-BDFChar: 91 91 10 0 9 -4 15
-z!!!u=&-*7A&-*7A&-*7A&-*7A&-*7A&-*[Mzz
-BDFChar: 92 92 10 0 9 -4 15
-zz+93Ma&-*7A#QP,1"98Q)!WW9%!<<-#zz
-BDFChar: 93 93 10 0 9 -4 15
-z!!!u="98Q)"98Q)"98Q)"98Q)"98Q)"99DAzz
+BDFChar: 91 91 10 3 5 -2 14
+i.-?.J:N0#J:N0#J:N0#huE`W
+BDFChar: 92 92 10 1 8 -1 14
+J:KmM+<V4,#RCP9!WiB'
+BDFChar: 93 93 10 3 5 -2 14
+i#j-b+<VdL+<VdL+<VdLhuE`W
 BDFChar: 94 94 10 0 9 -4 15
 !!!9)'EB<W5l^lbzzzzzzz
-BDFChar: 95 95 10 0 9 -2 -2
+BDFChar: 95 95 10 0 9 -1 -1
 s1eU7
 BDFChar: 96 96 10 0 9 -4 15
 &-)t9zzzzzzzzz
@@ -7646,16 +7641,16 @@ BDFChar: 97 97 10 0 9 -4 15
 zzz!!#1_!<<-#56*tL5la1N5la+Lzz
 BDFChar: 98 98 10 0 9 -4 15
 z!!#7a5QF%L5QH655la1N5la1N5la1N5lc?6zz
-BDFChar: 99 99 10 0 9 -4 15
-zzz!!#1_5la.M5QF%L5QF%L5la(Kzz
-BDFChar: 100 100 10 0 9 -4 15
-z!!!$"!<<-#!<>=a5la1N5la1N5la1N5la+Lzz
-BDFChar: 101 101 10 0 9 -4 15
-zzz!!#1_5la1N5lcB75QF%L5la(Kzz
+BDFChar: 99 99 10 1 7 0 8
+I"Hm!J:N0%HiO-H
+BDFChar: 100 100 10 1 7 0 12
+!WiE)IY*0'JqAT+IK0?J
+BDFChar: 101 101 10 1 7 0 8
+I"Hs%rd]NNHiO-H
 BDFChar: 102 102 10 2 7 0 12
 *$?@Hp`L\%+<VdL+92BA
-BDFChar: 103 103 10 1 7 -4 8
-IY*0'JqAT'!WiE)HiO-H
+BDFChar: 103 103 10 1 7 -5 8
+IY*0'JqAT+IKBQP!djtJ
 BDFChar: 104 104 10 0 9 -4 15
 z!!#7a5QF%L5QH655la1N5la1N5la1N5la1Nzz
 BDFChar: 105 105 10 0 9 -4 15
@@ -7668,14 +7663,14 @@ BDFChar: 108 108 10 0 9 -4 15
 z!!!i9#QP,1#QP,1#QP,1#QP,1#QP,1#QPhEzz
 BDFChar: 109 109 10 0 9 -4 15
 zzz!!%HJ8H;<^8H;<^8H;<^8H;<^zz
-BDFChar: 110 110 10 0 9 -4 15
-zzz!!%HJ5la1N5la1N5la1N5la1Nzz
-BDFChar: 111 111 10 0 9 -4 15
-zzz!!#1_5la1N5la1N5la1N5la(Kzz
-BDFChar: 112 112 10 1 7 -4 8
-r.9NPJqAUPJ:N0#J,fQL
-BDFChar: 113 113 10 1 7 -4 8
-IY*0'JqAT'!WiE)!WW3#
+BDFChar: 110 110 10 1 7 0 8
+r.9NPJqAT+JcGcN
+BDFChar: 111 111 10 1 7 0 8
+I"Hs%JqAT+HiO-H
+BDFChar: 112 112 10 1 7 -5 8
+r.9NPJqAT+r.'<JJ:IV"
+BDFChar: 113 113 10 1 7 -5 8
+IY*0'JqAT+IKBQP!Wi?%
 BDFChar: 114 114 10 0 9 -4 15
 zzz!!#dp:]Ol'5QF%L5QF%L5QF%Lzz
 BDFChar: 115 115 10 0 9 -4 15
@@ -7690,18 +7685,18 @@ BDFChar: 119 119 10 0 9 -4 15
 zzz!!#:b5la1N8H;<^8H;<^8H:pSzz
 BDFChar: 120 120 10 0 9 -4 15
 zzz!!#:b5l`)/'EAC='EB<W5la1Nzz
-BDFChar: 121 121 10 1 7 -4 8
-JqAT+JqAT'!WiE)HiO-H
+BDFChar: 121 121 10 1 7 -5 8
+JqAT+JqAT+IKBQP!djtJ
 BDFChar: 122 122 10 0 9 -4 15
 zzz!!%KK!<<0$"98]-&-*gQ5QH96zz
-BDFChar: 123 123 10 0 9 -4 15
-z!!!3'#QP,1#QP,1#QQOY#QP,1#QP,1#QP&/zz
-BDFChar: 124 124 10 0 9 -4 15
-z!!!9)#QP,1#QP,1#QP,1#QP,1#QP,1#QP,1zz
-BDFChar: 125 125 10 0 9 -4 15
-z!!"\Q#QP,1#QP,1#QP&/#QP,1#QP,1#QQOYzz
-BDFChar: 126 126 10 0 9 -4 15
-!!"_R8H;<^7K<Dgzzzzzzz
+BDFChar: 123 123 10 2 6 -2 14
+(a'qD+<VdL^`XaB+<VdL(]XO9
+BDFChar: 124 124 10 4 4 -2 14
+J:N0#J:N0#J:N0#J:N0#J,fQL
+BDFChar: 125 125 10 2 6 -2 14
+^`XaB+<VdL(a'qD+<VdL^]4?7
+BDFChar: 126 126 10 1 8 8 9
+EK1#!
 BDFChar: 127 160 10 0 9 -4 15
 zzzzzzzzzz
 BDFChar: 128 161 10 0 9 -4 15
@@ -7760,8 +7755,8 @@ BDFChar: 154 187 10 0 9 -4 15
 zzz!!%fT6i\D2&HE)e&HF!T6i`#Czz
 BDFChar: 155 188 10 0 9 -4 15
 z&-+Ba&-*8l&HEFD"98]-&HF$U70&/E%fcV1!<<*"z
-BDFChar: 156 189 10 0 9 -4 15
-z&-+Ba&-*8l&HEFD"98]-&-+$W8H=;A!WW?'%fcS0z
+BDFChar: 156 189 10 0 8 -1 13
+&-+Ba&-*8l&HEFD"98]-&-+$W8H=;A!WW?'%fcS0
 BDFChar: 157 190 10 0 9 -4 15
 zDu^.D0E;B/#lnuG"98]-&HF$U70&/E%fcV1!<<*"z
 BDFChar: 158 191 10 0 9 -4 15

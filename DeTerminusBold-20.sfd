@@ -1,8 +1,5 @@
 SplineFontDB: 3.0
 FontName: DeTerminusBold
-FamilyName: DeTerminus
-Copyright: Copyright (c) 2014, shui
-Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -15,8 +12,8 @@ XUID: [1021 507 594163628 7899778]
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1409631215
-ModificationTime: 1409631215
+CreationTime: 1409633322
+ModificationTime: 1409633322
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -7526,10 +7523,10 @@ BDFChar: 38 38 10 0 9 -4 15
 z!!#+]AcQECAcOpn(]ZRHD1KY,_Z7RSB7N-qzz
 BDFChar: 39 39 10 0 9 -4 15
 !!!E-$ig\9$ig8-zzzzzzz
-BDFChar: 40 40 10 0 9 -4 15
-z!!!3'$ig\9(]YBQ(]YBQ(]YBQ(]XsE$igJ3zz
-BDFChar: 41 41 10 0 9 -4 15
-z!!!i9$ig\9"oni-"oni-"oni-"oo&3$ih+Ezz
+BDFChar: 40 40 10 3 6 -2 14
+0OS;(^qdb$^qdb$^qa>c0E;(Q
+BDFChar: 41 41 10 3 6 -2 14
+^gLP(0JG170JG170JHmB^]4?7
 BDFChar: 42 42 10 0 9 -4 15
 zzz@fSCe*!$"h)uqks@fQK/zzz
 BDFChar: 43 43 10 0 9 -4 15
@@ -7541,7 +7538,7 @@ zzzz!!%M!zzzzz
 BDFChar: 46 46 10 0 9 -4 15
 zzzzzzz$ig\9zz
 BDFChar: 47 47 10 0 9 -4 15
-zz!rrE'"oni-$ig\9(]YBQ0E<d,?iXR7zz
+!!!"L!It3$"+UIR#64r.%KHn;)upfU2ukW4Dua8G?iWFlz
 BDFChar: 48 48 10 0 9 -4 15
 z!!#4`@=Vd:@=Vj<B7OiLH%9mb@=Vd:@=UQBzz
 BDFChar: 49 49 10 0 9 -4 15
@@ -7568,8 +7565,8 @@ BDFChar: 59 59 10 0 9 -4 15
 zzz!!!E-$ig8-z!!!E-$ig\9(]XO9z
 BDFChar: 60 60 10 0 9 -4 15
 z!!!%M!rrN*$ih+E0E>J\0E;pi$igJ3!rr@Pzz
-BDFChar: 61 61 10 0 9 -4 15
-zzz!!%M!z!!%M!zzzz
+BDFChar: 61 61 10 1 8 4 8
+rr<$!rr<$!
 BDFChar: 62 62 10 0 9 -4 15
 z!!$C,0E;pi$igJ3!rr@P!rrN*$ih+E0E>J\zz
 BDFChar: 63 63 10 0 9 -4 15
@@ -7611,7 +7608,7 @@ z!!%KK@=Vd:@=Vd:@=Wh-?iXR7?iXR7?iXR7zz
 BDFChar: 81 81 10 0 9 -4 15
 z!!#4`@=Vd:@=Vd:@=Vd:@=Vd:@=Vd:B7N2H!rr@Pz
 BDFChar: 82 82 10 0 9 -4 15
-z!!%KK@=Vd:@=Vd:@=Wh-GQ;O[AcQ<@@=Vd:zz
+z!!%KK@=Vd:@=Vd:@=Wh-@fU"h@=Vd:@=Vd:zz
 BDFChar: 83 83 10 0 9 -4 15
 z!!#4`@=Vd:?iXR7?iWCk!It3$!J"U/@=UQBzz
 BDFChar: 84 84 10 0 9 -4 15
@@ -7628,15 +7625,15 @@ BDFChar: 89 89 10 0 9 -4 15
 z!!$GX@=Vd:1B9321B8Hr$ig\9$ig\9$ig\9zz
 BDFChar: 90 90 10 0 9 -4 15
 z!!%M!!It3$!It7P"oo&3(]Z5i?iXR7?iY\,zz
-BDFChar: 91 91 10 0 9 -4 15
-z!!"&?(]YBQ(]YBQ(]YBQ(]YBQ(]YBQ(]YTWzz
-BDFChar: 92 92 10 0 9 -4 15
-zz?iXR70E<d,(]YBQ$ig\9"oni-!rrE'zz
-BDFChar: 93 93 10 0 9 -4 15
-z!!"&?"oni-"oni-"oni-"oni-"oni-"oo\Ezz
+BDFChar: 91 91 10 3 6 -2 14
+nA)iT^qdb$^qdb$^qdb$n,NFg
+BDFChar: 92 92 10 1 8 -2 14
+JAAtY?uReZ(`Wqo"pY54!<<*"
+BDFChar: 93 93 10 3 6 -2 14
+n1ZOM0JG170JG170JG17n,NFg
 BDFChar: 94 94 10 0 9 -4 15
 !!!E-*WRtr@=S=Xzzzzzzz
-BDFChar: 95 95 10 0 9 -2 -2
+BDFChar: 95 95 10 0 9 -1 -1
 s1eU7
 BDFChar: 96 96 10 0 9 -4 15
 (]XsEzzzzzzzzz
@@ -7652,8 +7649,8 @@ BDFChar: 101 101 10 1 8 0 8
 I`'(@s1lFfIK0?J
 BDFChar: 102 102 10 0 9 -4 15
 z!!!7S$ig\9$iiKl$ig\9$ig\9$ig\9$ig\9zz
-BDFChar: 103 103 10 1 8 -4 8
-J&B1A_o'BA!s8W-IK0?J
+BDFChar: 103 103 10 1 8 -5 8
+J&B1A_o'C0IffcT"+C4M
 BDFChar: 104 104 10 0 9 -4 15
 z!!$C,?iXR7?iYZV@=Vd:@=Vd:@=Vd:@=Vd:zz
 BDFChar: 105 105 10 0 9 -4 15
@@ -7670,10 +7667,10 @@ BDFChar: 110 110 10 0 9 -4 15
 zzz!!%KK@=Vd:@=Vd:@=Vd:@=Vd:zz
 BDFChar: 111 111 10 0 9 -4 15
 zzz!!#4`@=Vd:@=Vd:@=Vd:@=UQBzz
-BDFChar: 112 112 10 1 8 -4 8
-rklXk_o'Ck^qdb$^]4?7
-BDFChar: 113 113 10 1 8 -4 8
-J&B1A_o'BA!s8W-!rr<$
+BDFChar: 112 112 10 1 8 -5 8
+rklXk_o'C0rkQ=b^q]pM
+BDFChar: 113 113 10 1 8 -5 8
+J&B1A_o'C0IffcT!s8N'
 BDFChar: 114 114 10 0 9 -4 15
 zzz!!$qfGQ;[_?iXR7?iXR7?iXR7zz
 BDFChar: 115 115 10 1 8 0 8
@@ -7688,18 +7685,18 @@ BDFChar: 119 119 10 0 9 -4 15
 zzz!!$GX@=Vd:D1HJRD1HJRD1FhNzz
 BDFChar: 120 120 10 0 9 -4 15
 zzz!!$GX@=U-6*WQTK*WRtr@=Vd:zz
-BDFChar: 121 121 10 1 8 -4 8
-_o'C0_o'BA!s8W-IK0?J
+BDFChar: 121 121 10 1 8 -5 8
+_o'C0_o'C0IffcT"+C4M
 BDFChar: 122 122 10 0 9 -4 15
 zzz!!%M!!It7P"oo&3(]Z5i?iY\,zz
-BDFChar: 123 123 10 2 7 0 12
-*&''#0JME=0JG17)uos=
-BDFChar: 124 124 10 4 5 -1 13
-^qdb$^qdb$^qdb$^qd_c
-BDFChar: 125 125 10 2 7 0 12
-i%Qi=0JFJ#0JG17huE`W
-BDFChar: 126 126 10 0 9 -4 15
-!!#$0D1HJRB)ho3zzzzzzz
+BDFChar: 123 123 10 2 7 -2 14
+*&''#0JG17i%Qi=0JG17)uos=
+BDFChar: 124 124 10 4 5 -2 14
+^qdb$^qdb$^qdb$^qdb$^]4?7
+BDFChar: 125 125 10 2 7 -2 14
+i%Qi=0JG17*&''#0JG17huE`W
+BDFChar: 126 126 10 1 8 8 10
+EW;%!
 BDFChar: 127 160 10 0 9 -4 15
 zzzzzzzzzz
 BDFChar: 128 161 10 0 9 -4 15
