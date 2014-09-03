@@ -9,6 +9,8 @@ Changed glyphs:
 
 __20__
 
+* I to distinguish from l
+* J to keep a consistent style with I
 * a
 * pqgy
 * {}|\(\)\\[] slightly larger
